@@ -26,8 +26,7 @@ Antes de executar o código, certifique-se de ter as seguintes bibliotecas insta
 2. Execute o script Python em um ambiente de desenvolvimento compatível, como Jupyter Notebook, Spyder ou qualquer outro editor de sua preferência.
 
 3. O código fará Wrangling da estrutura em um DataFrame Pandas, serão realizadas várias operações de limpeza e transformação, incluindo a normalização de dados aninhados. Em seguida será feita a Exploração do schema e verificação de valores ausentes no DataFrame.
-Para realizar a Manipulação de Dados serão realizadas operações de Enriquecimento de dados, Geocodificação, Agregação e fusão de dados e Cálculo de novas variáveis. Para finalizar serão ão criadas visualizações de dados para analisar a relação entre as entregas e o nível de violência em diferentes áreas do Distrito Federal, incluindo
-Plotagem de entregas em um mapa usando Geopandas. Criação de gráficos de barras para visualizar o número de entregas em diferentes níveis de violência. 
+Para realizar a Manipulação de Dados serão realizadas operações de Enriquecimento de dados, Geocodificação, Agregação e fusão de dados e Cálculo de novas variáveis. Para finalizar, serão criadas visualizações de dados para analisar a relação entre as entregas e o nível de violência em diferentes áreas do Distrito Federal, incluindo Plotagem de entregas em um mapa usando Geopandas e criação de gráficos de barras para visualizar o número de entregas em diferentes níveis de violência. 
 
 
 ## Licença
